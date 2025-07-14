@@ -49,3 +49,25 @@ PRs are welcome for:
 
 - Formal proofs of correctness
 
+
+📚 References
+
+- Market Microstructure Theory — Maureen O’Hara
+
+- The Economics of Information — Sanford Grossman
+
+- OCaml from the Very Beginning — John Whitington
+
+- Jane Street OCaml Style Guide
+
+
+📜 License
+
+MIT — use it, break it, improve it.
+
+
+🧬 Author
+
+probability-kernel-engine is built by [MOHIT SHAH]
+📈 Quant R&D — OCaml | Market Microstructure | Algorithmic Trading
+
