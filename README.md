@@ -24,13 +24,6 @@ This project is a **from-scratch OCaml engine** for building:
 
 ---
 
-## ⚙️ Structure
-
-# Probability Kernel Engine
-
-
----
-
 ## ✨ Core Concepts
 
 | Concept | What It Does |
