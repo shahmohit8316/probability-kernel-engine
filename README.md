@@ -44,4 +44,15 @@ This project is a **from-scratch OCaml engine** for building:
 
 ---
 
+🤝 Contributing
+
+PRs are welcome for:
+
+- New kernel combinators
+
+- Performance optimizations
+
+- Real-world exchange adapters
+
+-Formal proofs of correctness
 
