@@ -54,5 +54,5 @@ PRs are welcome for:
 
 - Real-world exchange adapters
 
--Formal proofs of correctness
+- Formal proofs of correctness
 
