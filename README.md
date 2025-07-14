@@ -49,6 +49,8 @@ PRs are welcome for:
 
 - Formal proofs of correctness
 
+---
+
 
 📚 References
 
@@ -60,11 +62,13 @@ PRs are welcome for:
 
 - Jane Street OCaml Style Guide
 
+---
 
 📜 License
 
 MIT — use it, break it, improve it.
 
+---
 
 🧬 Author
 
